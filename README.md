@@ -1,4 +1,4 @@
-# Brazilian E-commerce Customer Lifetime Value (CLV) Prediction and Segmentation
+# BigQuery, Python, & Machine Learning: Unlocking E-commerce Value                               
 
 This project analyzes customer behavior and predicts Customer Lifetime Value (CLV) using the Olist Brazilian E-commerce public dataset.  The project utilizes a combination of data from Kaggle, data warehousing with Google BigQuery, data manipulation with pandas, machine learning with scikit-learn, and visualization with matplotlib and Plotly.
 
